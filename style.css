@@ -1,0 +1,19 @@
+.mi-navbar {	
+    background-color: rgba(88, 88, 88, 0.288); 
+    font-style: normal;
+    color: aqua;
+}
+
+.mi-footer{
+
+    background-color: rgba(3, 3, 3, 0.178);
+    color: rgb(8, 8, 8);
+}
+
+#about-me{
+    background-color: #1718161e;
+}
+#contact {
+    background-color: rgba(230, 222, 225, 0.623) ; 
+  }
+  
